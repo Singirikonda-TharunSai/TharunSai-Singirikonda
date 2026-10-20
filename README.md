@@ -1,4 +1,4 @@
-# `tharun.exe` — AI Engineer
+#  AI Engineer
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=I+build+AI+that+does+more+than+generate.;LLMs+%2B+Engineering+%2B+Real-world+problems.;Curiosity+in.+Working+systems+out." alt="Introduction" />
