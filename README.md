@@ -37,11 +37,7 @@ Adaptive RAG Assistant
 Explored an adaptive retrieval pipeline that chooses between retrieval approaches based on the query. The project includes reranking, contextual compression, retrieval evaluation, and asynchronous quality monitoring.
 
 Project descriptions are summaries of my experience and project work. Public repository links can be added when the code is available to share.
-📈 GitHub Overview
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Singirikonda-TharunSai&show_icons=true&theme=transparent&hide_border=true" height="160" alt="GitHub overview" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Singirikonda-TharunSai&layout=compact&theme=transparent&hide_border=true" height="160" alt="Most used languages" />
-</p>
+
 
 🤝 Connect
 - 💼 LinkedIn
