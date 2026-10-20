@@ -1,46 +1,57 @@
-<div align="center">
+# `tharun.exe` — AI Engineer
 
-Tharun Sai Singirikonda
-AI Automation Engineer | LLM Applications | Backend Development
-
-Hyderabad, India · Python · FastAPI · Generative AI
-
-LinkedIn · GitHub
-</div>
-
-👋 A Little About Me
-I’m an AI-focused software engineer interested in building practical LLM applications and dependable backend services. I enjoy exploring how retrieval, orchestration, and API design can help turn business questions into useful AI-powered workflows.
-
-My current areas of focus include RAG systems, agentic workflows, enterprise data assistants, and the engineering practices needed to make AI applications reliable and maintainable.
-🔍 What I Work On
-- LLM applications: Prompt design, orchestration, tool calling, and multi-step workflows
-- Knowledge retrieval: RAG, embeddings, semantic search, reranking, and retrieval evaluation
-- Backend services: Python, FastAPI, REST APIs, asynchronous processing, and PostgreSQL
-- Responsible AI: Query validation, access controls, privacy safeguards, and audit trails
-- Operations: Docker, Azure AI services, monitoring, and OpenTelemetry
-🧰 Tools & Technologies
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,mysql,redis,docker,azure,git,github" alt="Python, FastAPI, PostgreSQL, MySQL, Redis, Docker, Azure, Git, GitHub" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=I+build+AI+that+does+more+than+generate.;LLMs+%2B+Engineering+%2B+Real-world+problems.;Curiosity+in.+Working+systems+out." alt="Introduction" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LangChain-LLM%20Framework-1C3C3C?style=flat-square" alt="LangChain" />
-  <img src="https://img.shields.io/badge/LangGraph-Agent%20Workflows-2563EB?style=flat-square" alt="LangGraph" />
-  <img src="https://img.shields.io/badge/RAG-Retrieval%20Systems-6D28D9?style=flat-square" alt="RAG" />
-  <img src="https://img.shields.io/badge/Qdrant-Vector%20Search-DC382D?style=flat-square" alt="Qdrant" />
+  <code>HYDERABAD, INDIA</code> &nbsp; / &nbsp; <code>PYTHON</code> &nbsp; / &nbsp; <code>GENERATIVE AI</code> &nbsp; / &nbsp; <code>BACKEND SYSTEMS</code>
 </p>
 
-🧪 Work & Project Highlights
-Enterprise NL2SQL Assistant
-Worked on a natural-language-to-SQL assistant using FastAPI and PostgreSQL. The workflow includes intent routing, analytical planning, semantic grounding, SQL generation and validation, and answer synthesis, with governance controls around database access.
-Adaptive RAG Assistant
-Explored an adaptive retrieval pipeline that chooses between retrieval approaches based on the query. The project includes reranking, contextual compression, retrieval evaluation, and asynchronous quality monitoring.
+---
 
-Project descriptions are summaries of my experience and project work. Public repository links can be added when the code is available to share.
+### 01 / THE PERSON BEHIND THE CODE
 
+I'm Tharun Sai Singirikonda.
 
-🤝 Connect
-- 💼 LinkedIn
-- 💻 GitHub
-- 📍 Hyderabad, India
-<p align="center"><i>Learning continuously, building thoughtfully, and making AI useful.</i></p>
+I'm interested in the engineering behind intelligent systems — not just what an LLM can generate, but how retrieval, orchestration, APIs, and software design make it useful in the real world.
+
+I like understanding things from the inside out, experimenting with ideas, and turning what I learn into working implementations.
+
+### 02 / MY ENGINEERING DNA
+
+| `DOMAIN` | `FOCUS` |
+|:--|:--|
+| Intelligence | LLM applications · RAG · AI workflows |
+| Engineering | Python · FastAPI · REST APIs |
+| Data | PostgreSQL · Embeddings · Vector Search |
+| Exploration | Neural Networks · AI System Design |
+
+### 03 / CURRENTLY ON MY WORKBENCH
+
+```text
+[01]  Understanding neural networks from scratch
+[02]  Exploring retrieval and RAG architectures
+[03]  Engineering practical LLM-powered applications
+```
+
+### 04 / THE PRINCIPLE
+
+> Don't just use the abstraction.
+> Understand what happens underneath it.
+
+---
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/tharunSaiSingirikonda">
+    <img src="https://img.shields.io/badge/CONNECT_ON-LINKEDIN-58A6FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Singirikonda-TharunSai">
+    <img src="https://img.shields.io/badge/EXPLORE-MY_CODE-30363D?style=for-the-badge&logo=github&logoColor=white" alt="Explore my GitHub" />
+  </a>
+</p>
+
+<p align="center">
+  <sub>THARUN.SYS &nbsp;·&nbsp; Always learning. Always engineering.</sub>
+</p>
